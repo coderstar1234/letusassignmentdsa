@@ -1,2 +1,36 @@
-# letusassignmentdsa
-the assignment a dsa write a code in python.
+# Majority Element Algorithm
+
+This repository contains an algorithm to find the majority element in an array using the Boyer-Moore Voting Algorithm.
+
+## Problem
+
+Given an array of integers, find the majority element, i.e., the element that appears more than n/2 times (where n is the size of the array). If no majority element exists, return -1.
+
+### Example Test Case
+
+Input: [2, 4, 5, 5, 5, 5, 5]
+
+Output: 5
+
+## Implementation
+
+The algorithm is implemented in Python and follows the Boyer-Moore Voting Algorithm. The `find_majority_element` function takes an array of integers as input and returns the majority element or -1 if no majority element exists.
+
+### Usage
+
+```python
+def find_majority_element(nums):
+    # Implementation details...
+Testing
+The code includes a test case that can be executed to verify the correctness of the implementation.
+
+
+nums = [2, 4, 5, 5, 5, 5, 5]
+result = find_majority_element(nums)
+print(result)  # Output: 5
+License
+This project is licensed under the MIT License.
+
+
+
+You can copy the above content and save it in a file named `README.md`. Then, fol
