@@ -1,4 +1,4 @@
-# Majority Element Algorithm
+<h1 align="center" font-family="sans serif"><i> Majority Element Algorithm: </i></h1>
 
 This repository contains an algorithm to find the majority element in an array using the Boyer-Moore Voting Algorithm.
 
