@@ -8,7 +8,7 @@
 - The element that appears more than n/2 times (where n is the size of the array). 
 - If no majority element exists, return -1.
 
-### Example Test Case
+<h1 align="center" font-family="sans serif"><i>  Example Test Case:- </i></h1>
 
 Input: [2, 4, 5, 5, 5, 5, 5]
 
