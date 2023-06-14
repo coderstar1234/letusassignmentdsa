@@ -1,8 +1,8 @@
-<h1 align="center" font-family="sans serif"><i> Majority Element Algorithm: </i></h1>
+<h1 align="center" font-family="sans serif"><i> Majority Element Algorithm:- </i></h1>
 
 This repository contains an algorithm to find the majority element in an array using the Boyer-Moore Voting Algorithm.
 
-## Problem
+<h1 align="center" font-family="sans serif"><i>  Problem
 
 Given an array of integers, find the majority element, i.e., the element that appears more than n/2 times (where n is the size of the array). If no majority element exists, return -1.
 
