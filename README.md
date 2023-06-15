@@ -16,7 +16,8 @@ Output: 5
 
 <h1 align="center" font-family="sans serif"><i>Implementation:- </i></h1>
 
-The algorithm is implemented in Python and follows the Boyer-Moore Voting Algorithm. The `find_majority_element` function takes an array of integers as input and returns the majority element or -1 if no majority element exists.
+- The algorithm is implemented in Python and follows the Boyer-Moore Voting Algorithm.
+- The `find_majority_element` function takes an array of integers as input and returns the majority element or -1 if no majority element exists.
 
 ### Usage
 
