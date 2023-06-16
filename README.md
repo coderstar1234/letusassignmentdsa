@@ -2,7 +2,7 @@
 
 - This repository contains an algorithm to find the majority element in an array using the Boyer-Moore Voting Algorithm.
 
-<h1 align="center" font-family="sans serif"><i>  Problem:- </i></h1>
+<h1 align="center" font-family="sans serif"><i>  Problem😂😂:- </i></h1>
 
 - Given an array of integers, find the majority element, i.e.,
 - The element that appears more than n/2 times (where n is the size of the array). 
